@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/<your-repository-name>/', // Replace <your-repository-name> with your exact GitHub repo name
+  base: '/broadway-eater/',
 })
